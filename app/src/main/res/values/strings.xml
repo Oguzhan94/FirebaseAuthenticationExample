@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_button">GİRİŞ YAP</string>
+    <string name="signup_button">KAYIT OL</string>
+    <string name="email_hint">E-MAİL</string>
+    <string name="password_hint">ŞİFRE</string>
+
+</resources>
